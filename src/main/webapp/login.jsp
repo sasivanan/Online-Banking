@@ -12,7 +12,7 @@
 </head>
 <body>
     <div class="login-container">
-        <h2>Login to Online Banking</h2>
+        <h2>Login to Online Bank</h2>
         <form action="loginControll.jsp" method="post">
             <label for="username">Account Number:</label>
             <input type="number" id="acNumber" name="acNumber" required>
